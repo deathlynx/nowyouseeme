@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Your Name
+ORG:Your Business Name
+TEL;TYPE=CELL:+1234567890
+EMAIL:hello@yourwebsite.com
+URL:https://yourgithub.github.io
+END:VCARD
